@@ -1,6 +1,8 @@
+# Ignore Data (User should download/place it themselves as per README)
 data/*.csv
 # Ignore System Files
 .DS_Store
 # Ignore Jupyter Checkpoints
 .ipynb_checkpoints
-
+# Ignore Python Cache
+__pycache__/
