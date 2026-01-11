@@ -1,0 +1,6 @@
+data/*.csv
+# Ignore System Files
+.DS_Store
+# Ignore Jupyter Checkpoints
+.ipynb_checkpoints
+
